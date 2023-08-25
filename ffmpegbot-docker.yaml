@@ -6,6 +6,6 @@ appHash: env(APP_HASH)
 # Path to Telegram API file downloader script
 downloaderScript: pytgfile.py
 # Superusers can execute /run command
-superUsers: [12345]
+superUsers: [1028272649]
 # Allowed user ids
-allowedUsers: [12346, 12347]
+allowedUsers: [1028272649, 12347]
